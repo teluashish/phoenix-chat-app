@@ -1,0 +1,15 @@
+
+<h5> <%= @topic.title %> </h5>
+
+<ul id = "message-box" class="collection"></ul>
+
+<div class="input-field">
+  <textarea id = "content-area" class="materialize-textarea"></textarea>
+  <button id = "send-message-button" class="btn" >Send Message</button>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+      window.createSocketChannel(<%= @topic.id %>);
+  });
+</script>
