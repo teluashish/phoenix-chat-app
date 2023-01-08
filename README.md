@@ -1,7 +1,6 @@
 # Chat
 
-https://user-images.githubusercontent.com/66863362/211175537-dbbeb6c2-1403-4416-bfad-a8763c262614.mp4
-
+https://user-images.githubusercontent.com/66863362/211176904-651f7d92-3ba5-4b0d-91a7-289352c59d4d.mp4
 
 To start your Phoenix app:
 
