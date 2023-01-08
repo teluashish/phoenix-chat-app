@@ -1,5 +1,8 @@
 # Chat
 
+https://user-images.githubusercontent.com/66863362/211175537-dbbeb6c2-1403-4416-bfad-a8763c262614.mp4
+
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
